@@ -4,7 +4,8 @@
       <div class="container text-center">
         <h1 class="display-4">Plataforma de Valuación Inmobiliaria</h1>
         <p class="lead">Valora propiedades de manera rápida y precisa.</p>
-        <router-link to="/valoraciones" class="btn btn-light btn-lg">Comenzar</router-link>
+        <router-link to="/valuation" class="btn btn-light btn-lg">Comenzar</router-link>
+        <router-link to="/trend" class="btn btn-light btn-lg" style="padding-left: 10px;">Ver tendencia</router-link>
       </div>
     </header>
 
